@@ -46,7 +46,7 @@ loc_117D4
                 MOV     SP, R11
                 POP     {R11}
                 BX      LR
-``
+```
 
 Output:
 
